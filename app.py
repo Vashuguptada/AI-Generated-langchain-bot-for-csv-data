@@ -4,7 +4,7 @@ import streamlit as st
 from utils import get_answer_csv
 
 st.header("Chat with any CSV")
-csv_path = "D:\OS\chat-with-csv-main - Copy\chat-with-csv-main\sale.csv"
+csv_path = "sale.csv"
 # uploaded_file = st.file_uploader("Upload a csv file", type=["csv"])
 
 # if uploaded_file is not None:
