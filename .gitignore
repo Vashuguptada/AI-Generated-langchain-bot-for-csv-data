@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Compiled Python files
+*.pyc
+
+# macOS metadata
+.DS_Store
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm files
+.idea/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Local configuration file (replace with your specific local config file)
+local_config.ini
+
+# Ignore the environment configuration file
+.env
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
