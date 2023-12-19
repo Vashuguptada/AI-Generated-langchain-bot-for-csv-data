@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\OS\chat-with-csv-main\chat-with-csv-main\venv
+set VIRTUAL_ENV=D:\AI\solved langchain streamlit chatbot\langchain-bot\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
